@@ -1,0 +1,2 @@
+[console_scripts]
+binay_parajuli = binay_parajuli:my_name
